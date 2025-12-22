@@ -20,7 +20,7 @@ on:
         type: string
       
 env:
-  REPO_URL: https://github.com/openwrt/openwrt
+  REPO_URL: https://github.com/immortalwrt/immortalwrt
   CONFIG_FILE: config/official.config
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
